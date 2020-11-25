@@ -2,7 +2,7 @@
 README file 
 
 This is a repository for the data science course Getting and Cleaning Data on coursera provided by JHU.
-The repo constains the raw data files, the tidy dataset, the run_analysis.R script, the codebook and the README file. 
+The repo constains the tidy dataset, the run_analysis.R script, the codebook and the README file. 
 
 The data has been obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The file was downloaded and unzipped on the loacal directory. 
