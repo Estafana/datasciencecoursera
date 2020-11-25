@@ -1,0 +1,14 @@
+---
+title: "CodeBook"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+The variables in this file are: 
+trainx
+testx
+X
+trainy
+testy
