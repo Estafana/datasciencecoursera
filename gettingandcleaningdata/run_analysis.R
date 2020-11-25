@@ -4,7 +4,7 @@ library(dplyr)
 library(tidyr)
 
 ##setting directory
-setwd("E:/Data Science Coursera/UCI HAR Dataset/train")
+setwd("E:/Data Science Coursera/UCI HAR Dataset")
 
 ##Loading data 
 ##loading X values (values of all the variables)
