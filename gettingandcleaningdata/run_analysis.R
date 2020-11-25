@@ -58,4 +58,4 @@ Xdata$Activities= factor(Xdata$Activities)
 ##Calculating means of the dataset
 tidydata = Xdata %>% group_by(Subject, Activities) %>% summarise(across(.cols = everything(), .fns = mean))
 
-write.table(tidydata, "tidydata.txt")
+write.table(tidydata, "tidydata.txt", row.names = FALSE)
